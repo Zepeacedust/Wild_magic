@@ -6,13 +6,13 @@ Everyone in a 1d10ft radius around Target
 The closest person to the caster
 Each bug in a 1 mile radius
 Any being chosen by Caster
-Everything in a 10d10 ftcone
+Everything in a 10d10ft cone
 Any being chosen by target
-Everythnig caster can see
+Everything caster can see
 Everything target can see
 Local man
 Everyone in a 1 mile radius
 A local ruler
-50/50 chance for every person in a 100ft radius
+50/50 chance for every person in a 100ft radius that they
 Everyone in a line between caster and target
 The next person to touch the caster 
