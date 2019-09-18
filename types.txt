@@ -1,6 +1,7 @@
 ["target", "bad", "duration"]
 ["target", "good", "duration"]
 ["target", "instant"]
+["target", "good", "duration","but also", "bad", "until the first effect ends"]
 ["target","good","duration","but", "bad", "duration"]
 ["target","good","duration","but also", "instant"]
 ["target","choses between", "instant", "or", "instant"]
@@ -8,3 +9,5 @@
 ["chose two:", "target", "instant","OR","target", "instant","OR","target", "instant"]
 ["target", "good", "duration", "after that", "instant"]
 ["target", "instant", "after", "duration"]
+["target", "except", "target", "instant"]
+["target", "instant","AND" ,"target", "instant","AND", "target", "instant"]

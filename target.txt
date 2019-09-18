@@ -15,4 +15,6 @@ Everyone in a 1 mile radius
 A local ruler
 50/50 chance for every person in a 100ft radius that they
 Everyone in a line between caster and target
-The next person to touch the caster 
+The next person to touch the caster
+The last person to touch the caster
+The next person in the area to open a door 
